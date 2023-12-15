@@ -1,6 +1,6 @@
 #!/system/bin/sh
 #!/bin/sh
-# /bin/sh CALL IS MEANT FOR DIAGNOSTICS!
+# THE /bin/sh CALL IS MEANT FOR DIAGNOSTICS! REMOVE IT ON PROD
 
 msg() {
     echo "$1"
