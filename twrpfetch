@@ -40,9 +40,9 @@ barrier_2() {
     msg " "
 }
 
-# printico_with_info () {
-#     cat $SPRITE
-# }
+printico_with_info () {
+    cat /system/twrpinfo/art.arcii
+}
 
 printinfo() {
     barrier_1
